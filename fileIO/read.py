@@ -1,0 +1,5 @@
+f=open("data.txt","r")
+data=f.read()
+print(f)
+print(data)
+print(type(data))
